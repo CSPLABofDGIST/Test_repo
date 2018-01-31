@@ -3,3 +3,4 @@
 
 이 저장소를 clone하신 뒤 'Test.txt' 파일에 한 가지 문장을 추가해서 commit, push 해주시면 됩니다.
 
+Thank you
