@@ -1,4 +1,6 @@
 # Test_repo
-ÀÌ ÀúÀå¼Ò´Â Æ©Åä¸®¾óÀ» À§ÇØ »ý¼ºÇÑ ÀúÀå¼ÒÀÔ´Ï´Ù.
+ì´ ì €ìž¥ì†ŒëŠ” íŠœí† ë¦¬ì–¼ì„ ìœ„í•´ ìƒì„±í•œ ì €ìž¥ì†Œìž…ë‹ˆë‹¤.
 
-ÀÌ ÀúÀå¼Ò¸¦ cloneÇÏ½Å µÚ 'Test.txt' ÆÄÀÏ¿¡ ÇÑ °¡Áö ¹®ÀåÀ» Ãß°¡ÇØ¼­ commit, push ÇØÁÖ½Ã¸é µË´Ï´Ù.
+ì´ ì €ìž¥ì†Œë¥¼ cloneí•˜ì‹  ë’¤ 'Test.txt' íŒŒì¼ì— í•œ ê°€ì§€ ë¬¸ìž¥ì„ ì¶”ê°€í•´ì„œ commit, push í•´ì£¼ì‹œë©´ ë©ë‹ˆë‹¤.
+
+Thank you
